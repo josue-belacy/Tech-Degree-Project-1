@@ -58,7 +58,7 @@ a:hover {
 header {
   text-align: center;
   background: url('images/boston.jpg') no-repeat top center ;
-  <!-- Photo by Gregory Ballos-->
+  /* Photo by Gregory Ballos */
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
